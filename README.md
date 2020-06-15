@@ -1,9 +1,8 @@
-# Eggjs+Tarojs+AntDesign+Typescript全栈无人商城开源版
+# Eggjs+Tarojs+AntDesign+React+Graphql+Typescript全栈无人商城开源版
 
 ### 一、项目介绍
 
 youdidao全栈无人商城：youdidao 项目是一套无人电商售货系统，包含前台商城系统（小程序，快应用，h5，APP）、后台管理系统以及服务端。技术栈：Eggjs+Tarojs+AntDesign+React+Graphql+Typescript，我们做全网首个无人超市开源。
-
 
 
 #### 演示地址：
@@ -20,9 +19,9 @@ youdidao全栈无人商城：youdidao 项目是一套无人电商售货系统，
 
 2. 进入代码根目录：
 
-   - shop-admin 后台管理系统代码
-   - shop-client 前台商城系统代码
-   - shop-server 服务端代码
+   - admin 后台管理系统代码
+   - client 前台商城系统代码
+   - server 服务端代码
 
 3. 配置config文件：
 
@@ -128,15 +127,8 @@ youdidao全栈无人商城：youdidao 项目是一套无人电商售货系统，
  未获取商业授权之前，不得将本软件用于商业用途（包括但不限于二次开发销售，以营利为目的的商业用途等）。
 
 
-
-### 三、联系我们
-
-
-
-### 四、对有地道感兴趣？
+### 三、对有地道感兴趣或者其他你想实现的想法？请联系我们
 
 官网：https://globecat.cn/
 
 微信公众号：
-
-QQ群：
