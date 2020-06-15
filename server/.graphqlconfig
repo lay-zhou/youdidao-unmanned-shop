@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "customer-service": {
+      "schemaPath": "schema.graphql",
+      "extensions": {
+        "endpoints": {
+          "dev": "http://127.0.0.1:7001/graphql"
+        }
+      }
+    }
+  }
+}

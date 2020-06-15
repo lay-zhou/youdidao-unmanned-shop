@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "tslint-config-egg",
+    "tslint-config-prettier"
+  ]
+}
