@@ -2,7 +2,9 @@
 
 ### 一、项目介绍
 
-youdidao 项目是一套无人电商售货系统，包含前台商城系统（小程序，快应用，h5，APP）、后台管理系统以及服务端。
+youdidao全栈无人商城：youdidao 项目是一套无人电商售货系统，包含前台商城系统（小程序，快应用，h5，APP）、后台管理系统以及服务端。技术栈：Eggjs+Tarojs+AntDesign+React+Graphql+Typescript，我们做全网首个无人超市开源。
+
+
 
 #### 演示地址：
 
@@ -15,7 +17,9 @@ youdidao 项目是一套无人电商售货系统，包含前台商城系统（�
 - **开发环境安装**
 
 1. 手动下载zip代码或者使用命令下载git clone 
+
 2. 进入代码根目录：
+
    - shop-admin 后台管理系统代码
    - shop-client 前台商城系统代码
    - shop-server 服务端代码
@@ -55,10 +59,10 @@ youdidao 项目是一套无人电商售货系统，包含前台商城系统（�
      npm i
      npm run tsc
      npm run start
-  ```
-   
-- 启动前台商城系统
-   
+     ```
+
+   - 启动前台商城系统
+
      ```shell
      npm i
      # 微信小程序
@@ -73,7 +77,7 @@ youdidao 项目是一套无人电商售货系统，包含前台商城系统（�
      npm run dev:rn
      ```
 
-
+     
 
 - **线上环境安装**
 
