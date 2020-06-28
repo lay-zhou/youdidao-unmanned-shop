@@ -8,9 +8,7 @@ youdidao全栈无人商城：youdidao 项目是一套无人电商售货系统，
 
 - **小程序**：<img src="./readme-images/client.png" height="33%" width="33%" />
 
-- **商城管理系统：**
-
-  ![](./readme-images/admin.jpg)
+- **商城管理系统：**：<img src="./readme-images/admin.png"/>
 
   
 
