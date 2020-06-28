@@ -27,7 +27,7 @@
   "dependencies": {
     "@alicloud/sms-sdk": "^1.1.6",
     "ali-oss": "^6.1.1",
-    "apollo-server": "^2.4.8",
+    "apollo-server": "^2.14.2",
     "bcrypt": "^3.0.4",
     "dataloader": "^1.4.0",
     "egg": "^2.6.1",
