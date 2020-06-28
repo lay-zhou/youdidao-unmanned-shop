@@ -1,18 +1,20 @@
 # Eggjs+Tarojs+AntDesign+React+Graphql+Typescript全栈无人商城开源版
 
-### 一、项目介绍
+## 一、项目介绍
 
 youdidao全栈无人商城：youdidao 项目是一套无人电商售货系统，包含前台商城系统（小程序，快应用，h5，APP）、后台管理系统以及服务端。技术栈：Eggjs+Tarojs+AntDesign+React+Graphql+Typescript，我们做全网首个无人超市开源。
 
+### 演示图：
 
+- **小程序**：<img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gg806cj4ebj30k015mqv5.jpg" height="33%" width="33%" />
 
+- **商城管理系统：**
 
-#### 演示图：
+  ![](https://tva1.sinaimg.cn/large/007S8ZIlly1gg7zy342szj31lc0u0dnb.jpg)
 
-- 小程序码：<img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gg806cj4ebj30k015mqv5.jpg" style="zoom:33%;" />
-- 商城管理系统：![](https://tva1.sinaimg.cn/large/007S8ZIlly1gg7zy342szj31lc0u0dnb.jpg)
+  
 
-#### 安装部署：
+### 安装部署：
 
 - **开发环境安装**
 
@@ -28,19 +30,19 @@ youdidao全栈无人商城：youdidao 项目是一套无人电商售货系统，
 
    - 后台管理系统配置：
 
-     shop-admin/config/config.js中配置'umi-plugin-apollo'的uri默认为
+     admin/config/config.js中配置'umi-plugin-apollo'的uri默认为
 
      http://127.0.0.1:7001/graphql对应服务端的接口
 
    - 前台商城系统配置：
 
-     shop-client/src/utils/client.ts中配置new ApolloClient中的uri默认为
+     client/src/utils/client.ts中配置new ApolloClient中的uri默认为
 
      http://127.0.0.1:7001/graphql对应服务端的接口
 
    - 服务端的配置
 
-     shop-server/config/config.default.ts中配置对应的redis，mysql，以及第三方的接口配置。
+     server/config/config.default.ts中配置对应的redis，mysql，以及第三方的接口配置。
 
 4. 启动程序
 
@@ -85,7 +87,7 @@ youdidao全栈无人商城：youdidao 项目是一套无人电商售货系统，
 
 1. 服务端
 
-   到shop-server目录下打开控制台或者cd到shop-server目录进行
+   到server目录下打开控制台或者cd到server目录进行
 
    ```shell
    npm i
@@ -110,7 +112,7 @@ youdidao全栈无人商城：youdidao 项目是一套无人电商售货系统，
    npm run build:rn
    ```
 
-   按照您的需求可以进行按需打包，得到的代码在shop-client/dist目录下，按需上传服务器。
+   按照您的需求可以进行按需打包，得到的代码在client/dist目录下，按需上传服务器。
 
 3. 后台管理系统
 
@@ -119,18 +121,16 @@ youdidao全栈无人商城：youdidao 项目是一套无人电商售货系统，
    npm run build
    ```
 
-   打包后的文件在shop-admin/dist目录下，倒出后进行服务器代码上传。
+   打包后的文件在admin/dist目录下，倒出后进行服务器代码上传。
 
 
 
 
 ### 二、对有地道感兴趣或者其他你想实现的想法？请联系我们
 
-官网：https://globecat.cn/
+交流群：<img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gg7zo0mh6fj30ku11ctaa.jpg" height="33%" width="33%" />
 
-交流群：<img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gg7zo0mh6fj30ku11ctaa.jpg" style="zoom:30%;" />
-
-
+联系QQ: 59187993
 
 ### 三、协议规定
 
