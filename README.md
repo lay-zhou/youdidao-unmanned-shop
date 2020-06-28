@@ -6,11 +6,11 @@ youdidao全栈无人商城：youdidao 项目是一套无人电商售货系统，
 
 ### 演示图：
 
-- **小程序**：<img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gg806cj4ebj30k015mqv5.jpg" height="33%" width="33%" />
+- **小程序**：<img src="./readme-images/client.png" height="33%" width="33%" />
 
 - **商城管理系统：**
 
-  ![](https://tva1.sinaimg.cn/large/007S8ZIlly1gg7zy342szj31lc0u0dnb.jpg)
+  ![](./readme-images/admin.jpg)
 
   
 
@@ -127,7 +127,7 @@ youdidao全栈无人商城：youdidao 项目是一套无人电商售货系统，
 
 ## 二、对有地道感兴趣或者其他你想实现的想法？请联系我们
 
-交流群：<img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gg7zo0mh6fj30ku11ctaa.jpg" height="33%" width="33%" />
+交流群：<img src="./readme-images/qq.jpg" height="33%" width="33%" />
 
 联系QQ: 59187993
 
