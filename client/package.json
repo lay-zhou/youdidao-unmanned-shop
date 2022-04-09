@@ -40,7 +40,7 @@
 		"dva-core": "^1.4.0",
 		"dva-loading": "^3.0.12",
 		"graphql": "^14.4.2",
-		"moment": "^2.24.0",
+		"moment": "^2.29.2",
 		"react": "^16.9.0",
 		"react-apollo": "^2.5.8",
 		"react-dom": "^16.9.0",
